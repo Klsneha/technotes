@@ -1,0 +1,430 @@
+20250305	22:42:14	e48b095a-2bfc-4266-80bb-d04ad1be1c25	Error: Not Allowed by CORS	OPTIONS	
+  /	https://www.youtube.com
+20250305	22:42:14	bf554dcb-c7bc-4581-8523-6c9c61317161	Error: Not Allowed by CORS	GET	
+  /	https://www.youtube.com
+20250308	17:01:32	75ac8cba-914c-4ac8-9c95-76610b8e40ad	ValidationError: User validation failed: userName: Path `userName` is required.	POST	
+  /user	undefined
+20250308	17:05:21	6e1d8bb4-ffe0-41c8-ba5b-1f3435d48ae7	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250308	17:07:37	c2e33917-f6eb-478d-85d8-da4e8679a5a4	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250308	17:08:21	dd46f8af-085d-482d-8dcc-d5da41d93406	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250308	17:10:00	acfb75cb-7209-4930-a33e-b6e12ddd3a11	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250308	17:14:35	4327b52f-b844-4d45-8f82-c057fc431059	TypeError: Cannot read properties of undefined (reading 'toString')	PATCH	
+  /user	undefined
+20250308	17:18:15	616f9bdd-7ef3-47ba-806a-44a1f4c220b2	TypeError: Cannot read properties of undefined (reading 'length')	POST	
+  /user	undefined
+20250308	17:19:01	0736e416-c534-493a-97f4-1688405ab5f0	ValidationError: User validation failed: role.0: `EMPLOYEE` is not a valid enum value for path `role.0`.	POST	
+  /user	undefined
+20250309	16:05:34	bf039ddb-7311-40dc-8479-e00ca556ff7d	TypeError: Cannot read properties of undefined (reading 'includes')	GET	
+  /note	undefined
+20250309	16:20:48	857b6a88-7eec-4482-ba1f-eeda6cec49ab	TypeError: note.deleteOne is not a function	DELETE	
+  /note	undefined
+20250309	16:34:00	c0e50c8e-6ff6-4fd4-a360-aadcb173b079	TypeError: note.deleteOne is not a function	DELETE	
+  /note	undefined
+20250309	16:51:13	28591615-1efe-453e-9af4-816f8eb0eeb5	TypeError: Cannot read properties of undefined (reading 'includes')	DELETE	
+  /note	undefined
+20250328	00:11:35	b5af4e59-eab1-4685-a46c-80c81fcc4f3d	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:14:44	88a2652b-8bdf-4f9b-92ad-6cf22a8e2e2f	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:20:51	ad31964c-7ac5-4a9b-ae2c-0a7c2be8b7de	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:20:56	817eef82-8c87-4fb6-82cf-830dbef16b22	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:29:20	d148d16c-c0e4-4a1c-af44-3c9688bd0efc	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:29:55	b6759137-25ac-4bfb-ac07-9c00e316be45	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:30:02	19fcae81-fc8e-458e-927f-349f8234547f	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:31:05	2096a1f7-0612-4c19-ab40-2ccadf32fdbb	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250328	00:31:56	34be76d5-ab65-4715-a156-10b0f1682aae	Error: Not Allowed by CORS	GET	
+  /users	http://localhost:5174
+20250405	10:13:48	6e5dfb6a-8a2c-4af1-a7bc-15e6d59b7900	RangeError: Invalid status code: 4004	PATCH	
+  /user	http://localhost:5174
+20250405	10:26:27	19660a8d-5926-4582-a2b1-62af54d8348f	RangeError: Invalid status code: 4004	PATCH	
+  /user	http://localhost:5174
+20250405	10:41:33	5f7e0c79-7801-42cb-8d81-9ece51011c1b	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250405	10:41:52	1ba66bdb-bb15-4851-a557-fbcfb6381e52	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250405	10:43:19	8b786613-bf5a-4c15-ab30-5e0af262e347	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250405	10:43:42	8b2592e1-1554-432d-8b25-5937104b85ac	RangeError: Invalid status code: 4004	PATCH	
+  /user	http://localhost:5174
+20250405	10:44:25	0c8bbaa3-8034-41c8-a9d4-ee3c30de4c03	RangeError: Invalid status code: 4004	PATCH	
+  /user	http://localhost:5174
+20250405	10:45:02	276776f3-6332-4edb-a6fb-84c54701a648	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250405	10:45:33	816b2184-4b96-4ec2-bea7-70e8d76855b2	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250405	10:46:39	1932c801-d61d-46e9-8db1-8fe23876dbbb	SyntaxError: Expected double-quoted property name in JSON at position 143 (line 9 column 1)	PATCH	
+  /user	undefined
+20250405	10:46:47	7ba72bcb-f97b-444e-80f3-f39e6b25a1bf	RangeError: Invalid status code: 4004	PATCH	
+  /user	undefined
+20250405	10:47:03	3e7f7b5c-bc44-4045-8f3e-7ad280ecef0c	Error: Cannot set headers after they are sent to the client	PATCH	
+  /user	undefined
+20250405	10:47:08	47d189ee-becf-4860-8ec1-1dae5fff3ce5	Error: Cannot set headers after they are sent to the client	PATCH	
+  /user	http://localhost:5174
+20250405	17:42:00	6a622b3b-77b8-4873-ad46-4de90d0717c1	CastError: Cast to ObjectId failed for value "Kaushik" (type string) at path "user" for model "Note"	POST	
+  /note	http://localhost:5174
+20250406	23:03:37	483bb12e-7bb7-42eb-9caf-c5180401cfa1	TypeError: authHeader.startsWith is not a function	POST	
+  /auth	undefined
+20250406	23:04:51	f76a3c85-de61-482b-9b1a-117608e2b645	TypeError: authHeader.startsWith is not a function	POST	
+  /auth	undefined
+20250406	23:31:04	bc8ccb8c-21b9-47b5-b541-da6b87fc8e17	TypeError: authHeader.startsWith is not a function	GET	
+  /note	undefined
+20250406	23:33:24	a161c71a-2329-4206-9cd5-66f710a30fd4	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250406	23:33:24	125e927d-3c25-4047-95c8-849e4ff2bccf	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	08:06:04	21b0df90-80ff-46cf-a727-67878038020b	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	08:06:04	e15e01ae-b838-4709-beca-1f3a84c40ba1	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	08:11:42	926e33fc-2149-4d90-8d19-2a90dc07022e	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	08:11:42	62776224-1cf3-47d4-a8a9-b70e8ea8f103	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	08:16:17	4b6ee592-5437-463c-a2fe-0a68d3086bf6	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	08:16:17	82c0a2c6-f992-4c60-b116-b91d60097448	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	08:17:00	f745bfb6-258c-4375-83f6-9a3c571a0ca9	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	08:17:00	540c682e-e16a-4179-82c0-9d1ea7db9594	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	08:49:04	a3d9b729-7c73-4eed-bf93-ceb5e8ed9212	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	08:49:04	67db14ca-7e21-4b58-ae74-0d9993a208d4	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	08:55:46	0707e34b-ed0a-4e52-9d9f-8a6eb6ded9b2	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	08:55:46	f4a304c6-bfde-496e-9645-e92d54b7b17b	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	09:15:37	8f4e198d-f68d-429d-8b1e-894de4a3d680	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	09:15:37	96931be9-9ca0-4e36-9ad2-4363e2737579	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	09:40:16	33fad177-1aba-4638-82b9-c99f2515eca2	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	09:40:16	9ddab72c-1880-412b-a5d5-6f7a1e036e3b	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	10:10:15	d45a3507-239b-4bc4-8145-afd1c1f4665b	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	10:10:15	09b0c63d-5969-4d3d-bf36-91a39f0d721c	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	10:21:53	74025a1c-5b1c-4ac0-aa44-5752b3c35e5f	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	10:21:53	c69a80a6-f6b8-4a60-b03a-fba8a7d5a6fe	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	10:22:05	9caac470-4613-4b28-99ea-6ab55c00c503	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	10:22:05	1ade52b3-b01c-42ec-894a-bcd3e6561e86	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	10:29:03	fe7b2122-e927-4b65-a784-c9c086a8df90	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	10:29:03	556deb54-6526-47b7-a9a4-a9762e408515	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	10:51:28	1cf1c02e-f428-4669-9503-affc308e822a	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	10:51:28	f8fac408-a888-46e3-8992-1e446300cf1c	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	11:04:55	0dfc9a0e-2c49-4589-97c8-534712ec5a50	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	11:04:55	d0db6fcb-01d9-4dda-8458-3a40919daa37	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	11:36:08	b41a7002-4177-4bf4-9f0a-e22eaa7e8064	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	11:36:08	e73162b6-fc24-4b9e-a534-590d297f3475	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	11:49:51	f2fc44e4-cfc7-47b1-8f56-5e11fd030195	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	11:49:51	702dcf0e-2ea4-4df2-97d1-3a5fe7925c3b	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	12:02:41	45b99599-0b6c-4708-a779-efaa6514ed38	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	12:02:41	6d4c680d-2fb1-44f2-b6dc-e0b9553f7a69	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	12:06:19	3b3ce0c8-06e0-4c59-ad09-eddfac5da4d3	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	12:06:19	21600e30-be15-4c00-92d1-2b123709057b	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	12:41:17	5442afd5-40ee-4243-840e-31a980031990	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	12:41:17	5b9e1ed8-7578-4534-a3e6-d193fe6aebf0	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	13:14:50	ce4a1a68-6c86-4e6d-b93e-b78feb5dd4a9	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	13:14:50	7435d5b4-45a0-48df-a469-dcba18cba037	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	13:28:17	59e54456-ceee-49ff-8772-8b860770dd64	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	13:28:17	68b7385f-92fd-49ee-a512-fa690dedbc74	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	13:43:45	cb0813f3-1c6b-430a-ac60-33c58912f495	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	13:43:45	27b4bf2f-981d-4517-bcbf-1ea8977ad9a0	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	13:50:47	cbcdf446-9885-40e1-8245-0c71a96b8ba0	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	13:50:47	6e89da50-860d-4065-9d80-73e907f0e54d	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	13:53:25	cac02d78-6fb0-4310-b8ce-e865e0bbb74d	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	13:53:25	aa0f0942-5ac8-4718-8291-57fdc9fa368d	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	14:10:44	132f02c4-5f8a-4499-97a1-5ff1a70b6c92	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	14:10:44	279b477e-dae4-4c65-9042-adabcf6317d4	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	14:41:12	a5a3a0a0-e091-41fa-8d30-96c217d1acc6	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	14:41:12	92c5ba8d-15e9-4ddb-8f1d-b1f8a4152716	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	14:48:59	4a9f71d0-8f9b-4442-91be-ae171ea304a1	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	14:48:59	c2caea64-2e1f-4796-8f42-f8dd97d317fc	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	15:44:55	13461f60-3a8c-4016-b1f2-67b8d4f319df	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	15:44:55	9d651b03-7654-49bf-911e-184b61105c18	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	17:15:23	e7dd8fc6-6372-42dc-ba1f-7171e86129ce	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	17:15:23	0c6c16f7-1824-4f33-a5bc-c7a5906394f2	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	17:57:24	ed776c9b-1d68-40e0-a627-870bcf6cc2a8	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	17:57:24	abe372d5-82e5-45af-bda3-3545af8c514c	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	18:30:02	cba503bc-654a-404c-b53d-bf0798f77f84	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	18:30:02	52ef2233-c881-44b1-9f50-74f7d7e631b8	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250407	20:04:55	787d1488-8dca-4253-84c4-2289ec077383	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250407	20:04:55	59f54230-150d-4741-b88e-8b50c4e2b728	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	08:07:03	5a384692-9daa-4399-ab7e-3bda9f74eeb0	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	08:07:03	7c0cf67b-6abb-48fb-848b-97948f71097a	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	08:08:03	d5ee1a66-a319-401b-abd5-0350765cf151	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	08:08:03	0abc824d-31e6-43e8-8f39-62605426fa3d	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	08:10:17	32a93201-c6f5-482f-816a-49047ee0a398	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	08:10:17	3229e022-f126-4d82-a87b-763aa9c0f126	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	08:38:44	d05ed7d2-f251-4b68-a7b4-8c4da07f030d	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	08:38:44	bc32011e-f5f3-4912-89ae-0139ce4e2817	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	08:42:06	7898f6c0-23f1-4939-a957-4d96e17f28b2	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	08:42:06	aed43c2c-bb86-427c-96e0-64e9ffe54991	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	08:50:35	ef3bbca1-400a-45be-b11c-3fc3f47c9483	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	08:50:35	ccf135c9-685f-4d1e-bb84-77e0f5742bd9	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	09:06:15	d0f283cf-3ded-4186-be83-a86d392abd39	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	09:06:15	530018ab-7c9c-4e41-a3a9-02e4212bec04	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	09:13:51	0650f443-b173-4450-86ea-f75986cc9f57	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	09:13:51	afa3b3dc-7cd5-437c-b46e-5b57f569606d	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	10:59:22	6ee4942e-c4ad-43f8-99b8-a64d1e0fecb6	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	10:59:22	8fd3a51f-2a2c-4bad-93e7-56b20cf9a248	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	11:25:37	609d1383-25e4-4b85-bc53-5831908557c7	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	11:25:37	a026b875-76a5-4e3d-ad40-bc3646078fb0	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	11:43:29	3fb6c717-d486-42a7-8628-0ebce9f15b53	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	11:43:29	f21d8771-d561-4ffa-9d3f-6c9bea131a80	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	11:56:54	9097fc9b-c1e8-477d-a356-dca470c751b6	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	11:56:54	23a2edd9-99fb-46f4-b366-9042f97c3a56	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	12:05:37	d748fe77-869b-4563-b74c-725081e7cfc2	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	12:05:37	7a36bd14-4906-4b65-85fc-9b9b865d9352	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	12:08:10	bbab2a51-d89c-4ecf-8415-ad0f9ac6477c	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	12:08:10	448344e9-1e18-4ce5-83aa-3c556f294aac	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	12:39:57	5d8b0bea-fbca-472d-bfb7-b1a418fd900d	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	12:39:57	ee262981-82b9-43e5-812e-b08808f3078f	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	13:35:44	2ea6bbff-be67-4877-8f6b-300b12790e61	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	13:35:44	a3007ad6-2aea-43cc-8ffa-15a8ded670c9	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	14:02:40	e967a004-1638-4053-b538-e49d36985239	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	14:02:40	2d75ca1e-53ab-4503-a9e0-f0af81cdc033	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	14:16:15	e2dcc971-eb67-4179-aa2a-e216ec866acb	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	14:16:15	6bd1021b-0731-4553-adfd-84239ba1398b	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	14:47:14	f7f80620-cd81-40df-bd0d-0fe326efc4fe	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	14:47:14	765cbdcd-3d4b-4093-b609-c899421e3b7a	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	15:01:19	a84f180a-b21a-424a-b205-db1c4423c06f	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	15:01:19	2c279fd5-5d34-4c5a-ae81-56cea1092e83	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	15:35:41	020a68bb-6859-4cca-909d-c1af0489f6de	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	15:35:42	77ed6e09-bf36-4652-9b56-584069bf7e6a	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	21:15:45	92b67d76-2c93-4865-95ff-49e8354eb52f	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	21:15:45	76824e7c-e563-4e4b-bef9-b4bd92d70315	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	21:29:03	d2c94912-cb37-405d-80fa-b757fe25ee75	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	21:29:03	61635131-a446-42f2-b3e6-e7820e809342	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	21:30:13	f703ab43-3269-4c51-87a1-599d313013f0	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	21:30:13	6d385a14-dea1-4903-8f5a-6dc687f2df4e	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	21:30:17	a6bce0fa-23a9-4ef9-a14f-f59a1b4da6d8	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	21:30:17	fe97e7bc-dede-46b0-abfc-3ab952d18e24	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	21:55:26	3cc1528c-2178-4680-abe9-00056122427f	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	21:55:26	95c519d5-2701-4842-84e1-4bc453978d3a	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	21:57:57	66e8ec15-3c2c-4b95-95ef-830803a0dcbb	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	21:57:57	0482cd26-e81b-44f5-a84a-7c3a31df3375	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:00:40	710d8261-1e72-472a-96f7-3587cd98f457	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:00:40	88a838a4-c52e-44a8-8152-853c25d7f5ba	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:00:43	96622e98-72bc-4bbc-aee7-e62884e46af3	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:00:43	5f7c4942-e70a-4028-b0cd-e73c9fb4e3c4	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:01:58	34f8d7b7-8956-4d7b-b4b5-34e7488c59c1	TypeError: authHeader.startsWith is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:01:58	cb087655-9822-49dc-84df-b0802e22227e	TypeError: authHeader.startsWith is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:03:27	abb4f299-23fb-49f6-b038-c5e8fcfdbddd	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:03:27	45d2f915-8164-4a66-9db6-492548a3dd47	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:08:46	e3134be7-2d98-4a46-bcd5-ba4506e980a1	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:08:46	9830e1e9-4e93-4d7e-abba-ee58519ebcc9	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:10:14	3218ae8a-1b3d-4841-9562-1361077b9838	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:10:14	a8cd1272-da66-45c8-8c8b-ce8492e950d8	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:12:34	87cab5fe-3a4e-42fb-af2b-72ee7d79ea6b	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:12:34	b4b87700-11a9-4b5e-8adc-9bc3c8e35c1d	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:14:39	3f82f947-d342-4f86-b475-4facc3615851	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:14:39	53e60f21-a330-4b17-89aa-c6af187a3dbf	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:17:53	5a65c106-dd48-402e-a205-1fada530d47f	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:17:53	864f85ac-1bfb-4d58-9a09-54ee78233172	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:19:30	a503ffce-18bd-4677-a746-22f668468162	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:19:30	214a6b1e-f21a-40cf-9e42-46ef7a85e9b6	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:21:19	53727aa9-4115-439b-a85a-c802580869d1	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:21:19	91ca7875-012d-457d-89e1-8f88c8085238	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:21:47	9e5c94a6-d76b-4e37-a4ff-0b1995f0413f	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:21:47	5b45e015-3b76-464f-9b07-141c2cb7f0fd	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:28:29	863edee5-e6bb-4967-a047-de780a81f10f	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:28:29	bf2a1d78-35be-4ef2-854d-f149b8d7675a	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:30:03	b8747292-c2a6-49e0-832a-22469fc6d984	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:30:03	6bc7d7d7-b8b5-409c-bed5-58239abbeded	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250408	22:35:29	e595aec8-8fc5-47c5-b591-66b1a4adb0cb	TypeError: authHeader.split is not a function	GET	
+  /note	http://localhost:5174
+20250408	22:35:29	32189c1e-d281-42bc-bb24-07c46df7c8a1	TypeError: authHeader.split is not a function	GET	
+  /user	http://localhost:5174
+20250503	16:38:58	bc21fb62-541b-47b4-9c73-a9166eee827c	Error: Not Allowed by CORS	OPTIONS	
+  /auth	http://localhost:3000
+20250503	16:38:59	d7b0cdff-b610-47bb-9ee3-7747d6bdb2bd	Error: Not Allowed by CORS	OPTIONS	
+  /auth	http://localhost:3000
+20250503	16:39:00	9381a23b-4470-4e4f-91c7-563cb434203a	Error: Not Allowed by CORS	OPTIONS	
+  /auth	http://localhost:3000
+20250503	16:39:01	204ea279-068f-48c8-89de-d43f09725c1b	Error: Not Allowed by CORS	OPTIONS	
+  /auth	http://localhost:3000
+20250503	16:39:06	9fe8210d-89dc-45e0-b281-489ae4d4cd5d	Error: Not Allowed by CORS	OPTIONS	
+  /auth	http://localhost:3000
+20250503	16:40:09	7c050852-2ce2-491a-a423-b27bbaa12844	Error: Not Allowed by CORS	OPTIONS	
+  /auth	http://localhost:3000
+20250503	16:41:15	bab3baf9-0cff-469b-b87a-056b47379278	Error: Not Allowed by CORS	OPTIONS	
+  /auth	http://localhost:3000
+20250503	18:49:32	b994db94-5e7e-4db3-993b-e57dd2cf7633	MongoPoolClearedError: Connection pool for cluster0-shard-00-01.xttmi.mongodb.net:27017 was cleared because another operation failed with: "read ECONNRESET"	GET	
+  /note	http://localhost:5173
+20250504	01:12:19	ddb0d8bf-e379-43f8-9afd-c9d0e1a1d88a	Error: read ECONNRESET	GET	
+  /note	http://localhost:5173
+20250504	01:26:49	e65e5339-64c8-4bc7-9673-7e9b0678d824	Error: read ECONNRESET	GET	
+  /auth/refresh	http://localhost:5173
+20250504	18:52:59	8cc7d0a7-0467-4321-b0b7-5f3036c931f4	Error: read ECONNRESET	GET	
+  /auth/refresh	http://localhost:5173
+20250505	17:28:30	b70fc3b5-728e-4ed2-98c1-8ca4a1e5e452	MongoServerSelectionError: connection <monitor> to 89.192.9.182:27017 timed out	GET	
+  /auth/refresh	http://localhost:5173
+20250506	03:42:50	60a14da4-21ea-4505-b0b6-87c8a3d341d3	MongoServerSelectionError: getaddrinfo ENOTFOUND cluster0-shard-00-01.xttmi.mongodb.net	GET	
+  /note	http://localhost:5173
+20250506	15:16:54	fef5a54c-6f6b-4fb1-97ae-aca32d2fb77f	MongoServerSelectionError: connection <monitor> to 89.192.9.182:27017 timed out	GET	
+  /auth/refresh	http://localhost:5173
+20250506	18:15:24	ee2b7937-c292-4c5c-800b-653f34385f25	MongoServerSelectionError: connection <monitor> to 89.192.9.182:27017 timed out	GET	
+  /auth/refresh	http://localhost:5173
+20250507	03:04:28	92a96c87-39c0-4fa6-aeb8-806ff2109924	MongoPoolClearedError: Connection pool for cluster0-shard-00-02.xttmi.mongodb.net:27017 was cleared because another operation failed with: "read ECONNRESET"	GET	
+  /auth/refresh	http://localhost:5173
+20250507	15:01:14	f1d2be75-e9a3-4bf3-8d99-f5a7b7c9bcc4	MongoServerSelectionError: connection <monitor> to 89.192.9.182:27017 timed out	GET	
+  /note	http://localhost:5173
+20250508	01:20:05	0612971f-772e-4dc0-83df-b649c7db11a1	MongoPoolClearedError: Connection pool for cluster0-shard-00-02.xttmi.mongodb.net:27017 was cleared because another operation failed with: "read ECONNRESET"	GET	
+  /auth/refresh	http://localhost:5173
+20250508	12:03:53	6c9c47e8-8e49-46bd-9f82-852983db99b2	MongoPoolClearedError: Connection pool for cluster0-shard-00-02.xttmi.mongodb.net:27017 was cleared because another operation failed with: "read ECONNRESET"	GET	
+  /auth/refresh	http://localhost:5173
+20250508	12:51:36	9e5245a1-c404-4695-92aa-a2592c5d22ce	MongoPoolClearedError: Connection pool for cluster0-shard-00-02.xttmi.mongodb.net:27017 was cleared because another operation failed with: "read ECONNRESET"	GET	
+  /auth/refresh	http://localhost:5173
+20250508	13:50:00	d2d20a60-e291-4f97-b31e-1f5e265e082b	Error: read ECONNRESET	GET	
+  /auth/refresh	http://localhost:5173
+20250508	22:02:28	ce936d37-b971-4794-a8d8-173e0749678b	MongoServerSelectionError: connection <monitor> to 89.192.9.182:27017 timed out	GET	
+  /note	http://localhost:5173
+20250509	00:01:46	a2098e62-2cd1-4f48-b090-d940743d36de	MongoServerSelectionError: connection <monitor> to 89.192.9.182:27017 timed out	GET	
+  /auth/refresh	http://localhost:5173
+20250509	21:10:48	c0074ad5-5108-4d62-9759-aebd1783cccb	MongoServerSelectionError: connection <monitor> to 89.192.9.182:27017 timed out	GET	
+  /auth/refresh	http://localhost:5173
+20250510	16:00:03	b0abe1dd-b8a7-45f6-b3f7-b5b924af8e85	MongoPoolClearedError: Connection pool for cluster0-shard-00-01.xttmi.mongodb.net:27017 was cleared because another operation failed with: "read ECONNRESET"	GET	
+  /note	http://localhost:5173
